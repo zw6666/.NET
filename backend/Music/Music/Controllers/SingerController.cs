@@ -4,15 +4,16 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using DataMining;
 
 namespace Music.Controllers
 {
     public class SingerController : ApiController
     {
         // GET: api/Singer
-        public IEnumerable<string> Get()
+        public SearchData Get([FromBody]string keyword)
         {
-            return new string[] { "value1", "value2" };
+            return Creeper.GetSearchResult(keyword);
         }
 
         // GET: api/Singer/5
