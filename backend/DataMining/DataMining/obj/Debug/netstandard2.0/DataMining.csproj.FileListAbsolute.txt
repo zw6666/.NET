@@ -1,0 +1,12 @@
+F:\Net期末项目\DataMining\DataMining\bin\Debug\netstandard2.0\DataMining.deps.json
+F:\Net期末项目\DataMining\DataMining\bin\Debug\netstandard2.0\DataMining.dll
+F:\Net期末项目\DataMining\DataMining\bin\Debug\netstandard2.0\DataMining.pdb
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.csproj.CoreCompileInputs.cache
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.AssemblyInfoInputs.cache
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.AssemblyInfo.cs
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.dll
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.pdb
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.csprojAssemblyReference.cache
+F:\Net期末项目\DataMining\DataMining\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+F:\Net期末项目\DataMining\DataMining\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+F:\Net期末项目\DataMining\DataMining\obj\Debug\netstandard2.0\DataMining.csproj.CopyComplete
